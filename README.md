@@ -8,14 +8,14 @@ This project is designed to detect objects from images , webcam or recorded vide
 This is a POC(Proof of concept) kind-of project. The data used here comes up with no guarantee from the creator. So, don't use it for making decisions. If you do so, the creator is not responsible for anything. However, this project presents the idea that how we can use MACHINE LEARNING can recognize faces in photos or videos, making it useful for things like security, unlocking phones, or tagging friends in social media posts.
 
 # Table of Content
-Introduction
-Installation
-Dataset
-Algorithm
-Screenshots
-Contributing
-Contact
-License
+1. Introduction
+2. Installation
+3. Dataset
+4. Algorithm
+5. Screenshots
+6. Contributing
+7. Contact
+8. License
 
 # Introduction
 
