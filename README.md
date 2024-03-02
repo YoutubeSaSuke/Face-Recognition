@@ -23,7 +23,7 @@ Face detection is a technology that identifies and locates human faces in images
 
 # Installation
 
-git clone 
+git clone https://github.com/YoutubeSaSuke/Face-Recognition.git
 
 Install the required dependencies using pip: pip install opencv-python
 
