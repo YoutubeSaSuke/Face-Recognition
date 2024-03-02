@@ -37,6 +37,11 @@ Haarcascade_frontalface.xml
 
 # Screenshots
 
+![s2](https://github.com/YoutubeSaSuke/Face-Recognition/assets/101310228/2ec0525b-bce2-4df3-9fa2-6e331935fd7d)
+
+![s2 2](https://github.com/YoutubeSaSuke/Face-Recognition/assets/101310228/edf308c6-c017-4ee4-9833-4d829b4555b7)
+
+![s1](https://github.com/YoutubeSaSuke/Face-Recognition/assets/101310228/fe4c8cc0-70c3-4916-a301-0863ca4c5b61)
 
 # Contributing
 
