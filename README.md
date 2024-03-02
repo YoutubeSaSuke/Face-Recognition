@@ -53,6 +53,6 @@ If you would like to contribute to any of my projects, please fork this reposito
 
 
 ## Contact 📞
-If you have any doubt or want to contribute feel free to email me or hit me up on LinkedIn,Email
+If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/naman-rana-32827b217/),[Email](namanr738@gmail.com)
 ## License
 All of my projects are licensed under the MIT License. Copyright © 2023 Naman Singh Rana.
