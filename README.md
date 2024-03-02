@@ -16,12 +16,11 @@ This is a POC(Proof of concept) kind-of project. The data used here comes up wit
 6. [Contributing](#contributing)
 7. [Contact](#contact)
 8. [License](#license)
-
-# Introduction
+## Introduction
 
 Face detection is a technology that identifies and locates human faces in images or videos. It's commonly used in security systems, photography apps, and social media platforms for tasks like recognizing people, applying filters, or enhancing photo organization. This technology enables automatic detection and analysis of faces, making various applications more convenient and efficient.
 
-# Installation
+## Installation
 
 git clone https://github.com/YoutubeSaSuke/Face-Recognition.git
 
@@ -29,13 +28,13 @@ Install the required dependencies using pip: pip install opencv-python
 
 Run the Jupyter Notebook or Python scripts to train models and make predictions.
 
-# Dataset 
+## Dataset 
 Images from datasets , webcam and recorded videos are used. This project contains various objects in it.
 
-# Pre-trained Model
+## Pre-trained Model
 Haarcascade_frontalface.xml
 
-# Screenshots
+## Screenshots
 
 ![s2](https://github.com/YoutubeSaSuke/Face-Recognition/assets/101310228/2ec0525b-bce2-4df3-9fa2-6e331935fd7d)
 
@@ -43,7 +42,9 @@ Haarcascade_frontalface.xml
 
 ![s1](https://github.com/YoutubeSaSuke/Face-Recognition/assets/101310228/fe4c8cc0-70c3-4916-a301-0863ca4c5b61)
 
-# Contributing
+
+
+## Contributing
 
 If you would like to contribute to any of my projects, please fork this repository and create a new branch for your changes. Once you are finished, please submit a pull request.
 
@@ -51,7 +52,7 @@ If you would like to contribute to any of my projects, please fork this reposito
 1.Fork the repository. 2.Create a new branch for your feature or bug fix. 3.Make your changes and commit them. 4.Push to your fork and submit a pull request to the main repository.
 
 
-# Contact 📞
+## Contact 📞
 If you have any doubt or want to contribute feel free to email me or hit me up on LinkedIn,Email
-# License
+## License
 All of my projects are licensed under the MIT License. Copyright © 2023 Naman Singh Rana.
